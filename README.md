@@ -1,4 +1,7 @@
-![header](https://user-images.githubusercontent.com/58512335/123056439-e2533a00-d441-11eb-9957-15d9a4b7314b.jpg)
+<p align="center">
+![header](https://user-images.githubusercontent.com/58512335/123056640-0f9fe800-d442-11eb-9562-6556e2dc6e12.jpg)
+</p>
+
 
 
 # Hazzzero
