@@ -1,4 +1,4 @@
-![header][KakaoTalk_20210623_163656888](https://user-images.githubusercontent.com/58512335/123056102-85f01a80-d441-11eb-92bf-af1556a8004c.jpg)
+![KakaoTalk_20210623_163656888](https://user-images.githubusercontent.com/58512335/123056102-85f01a80-d441-11eb-92bf-af1556a8004c.jpg)
 
 # Hazzzero
 <h2 align="center">Tech Stack</h2>
