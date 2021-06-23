@@ -1,10 +1,8 @@
-![header](https://user-images.githubusercontent.com/58512335/123056640-0f9fe800-d442-11eb-9562-6556e2dc6e12.jpg)
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/58512335/123057651-06634b00-d443-11eb-8975-38e74b7b52a7.jpg" width="400" height="250">
+</p>
 
-
-
-
-# Hazzzero
-<h2 align="center">Tech Stack</h2>
+<h3 align="center">💻🛠Tech Stack🛠💻</h2>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>&nbsp
@@ -21,7 +19,9 @@
   <img src="https://img.shields.io/badge/Slack-4A154B?style=flat-square&logo=Slack&logoColor=white"/></a>&nbsp 
 </p>
 
-<h2 align="center">About Me</h2>
+&nbsp;
+
+<h3 align="center">📚About Me📚</h2>
 <p align="center">
   <a href=https://thedayof-1.tistory.com/"><img src="https://img.shields.io/badge/Tech Blog-A100FF?style=flat-square&logo=Bloglovin&logoColor=white&link=thedayof-1.tistory.com"/></a>&nbsp
     <a href=https://https://www.instagram.com/hazzzzzzzero//"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/hazzzzzzzero/"/></a>&nbsp
