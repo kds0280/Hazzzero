@@ -23,6 +23,6 @@
 
 <h3 align="center">📚About Me📚</h2>
 <p align="center">
-  <a href=https://thedayof-1.tistory.com/"><img src="https://img.shields.io/badge/Tech Blog-A100FF?style=flat-square&logo=Bloglovin&logoColor=white&link=thedayof-1.tistory.com"/></a>&nbsp
+  <a href=https://https://thedayof-1.tistory.com//"><img src="https://img.shields.io/badge/Tech Blog-A100FF?style=flat-square&logo=Bloglovin&logoColor=white&link=thedayof-1.tistory.com"/></a>&nbsp
     <a href=https://https://www.instagram.com/hazzzzzzzero//"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/hazzzzzzzero/"/></a>&nbsp
 </p>
