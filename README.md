@@ -1,3 +1,5 @@
+![header][KakaoTalk_20210623_163656888](https://user-images.githubusercontent.com/58512335/123056102-85f01a80-d441-11eb-92bf-af1556a8004c.jpg)
+
 # Hazzzero
 <h2 align="center">Tech Stack</h2>
 
@@ -12,7 +14,7 @@
   <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/></a>&nbsp 
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white"/></a>&nbsp
   <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white"/></a>&nbsp 
-  <img src="https://img.shields.io/badge/Ruby-CC342D?style=flat-square&logo=Rubyt&logoColor=white"/></a>&nbsp 
+  <img src="https://img.shields.io/badge/Ruby-CC342D?style=flat-square&logo=Ruby&logoColor=white"/></a>&nbsp 
   <img src="https://img.shields.io/badge/Slack-4A154B?style=flat-square&logo=Slack&logoColor=white"/></a>&nbsp 
 </p>
 
