@@ -5,6 +5,8 @@
   <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>&nbsp
   <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=Django&logoColor=white"/></a>&nbsp
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/></a>&nbsp
+ </p>
+<p align="center">
   <img src="https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=HTML&logoColor=white"/></a>&nbsp 
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=white"/></a>&nbsp 
   <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/></a>&nbsp 
@@ -17,4 +19,5 @@
 <h2 align="center">About Me</h2>
 <p align="center">
   <a href=https://thedayof-1.tistory.com/"><img src="https://img.shields.io/badge/Tech Blog-A100FF?style=flat-square&logo=Bloglovin&logoColor=white&link=thedayof-1.tistory.com"/></a>&nbsp
+    <a href=https://https://www.instagram.com/hazzzzzzzero//"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/hazzzzzzzero/"/></a>&nbsp
 </p>
